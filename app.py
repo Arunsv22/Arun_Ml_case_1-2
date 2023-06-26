@@ -67,8 +67,8 @@ def prediction(Gender, Married, ApplicantIncome, CoapplicantIncome, Dependent, L
 def main():
     # front end elements of the web page
     html_temp = """
-    <div style ="background-color:yellow;padding:13px">
-    <h1 style ="color:black;text-align:center;">Streamlit Loan Prediction ML App</h1>
+    <div style ="background-color:green;padding:13px">
+    <h1 style ="color:white;text-align:center;">Streamlit Loan Prediction ML App</h1>
     </div>
     """
 
